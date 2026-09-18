@@ -175,27 +175,33 @@ The following six screenshots document the completed Task-3 implementation, incl
 
 Screenshot 1
 
-Paste the first final screenshot here.
+<img width="1912" height="1010" alt="sc-1" src="https://github.com/user-attachments/assets/0fced1be-688e-4cf2-91d9-e4c7b257bf67" />
+
 
 Screenshot 2
 
-Paste the second final screenshot here.
+<img width="1911" height="926" alt="sc-2" src="https://github.com/user-attachments/assets/e5600a01-79de-4cd3-9e88-990a8cea123e" />
+
 
 Screenshot 3
 
-Paste the third final screenshot here.
+<img width="1905" height="955" alt="sc-3" src="https://github.com/user-attachments/assets/cb021347-6f67-4241-86a5-d0a62778adec" />
+
 
 Screenshot 4
 
-Paste the fourth final screenshot here.
+<img width="1897" height="967" alt="sc-4" src="https://github.com/user-attachments/assets/b8c4f8ed-fd11-445a-8508-eed74b947902" />
+
 
 Screenshot 5
 
-Paste the fifth final screenshot here.
+<img width="1301" height="487" alt="sc-5" src="https://github.com/user-attachments/assets/c359b1ea-0a8c-47e6-a4f2-aeb60b073424" />
+
 
 Screenshot 6
 
-Paste the sixth final screenshot here.
+<img width="1896" height="952" alt="sc-6" src="https://github.com/user-attachments/assets/fdc9a69a-4a30-40dd-88ce-bc038a863c7e" />
+
 
 16. Conclusion
 
